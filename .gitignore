@@ -1,0 +1,14 @@
+.idea
+.vscode
+node_modules
+/swfs/
+/src/
+/npm-debug.log
+/package-lock.json
+/*/Content
+/*/content
+/temporary-swfs
+/sftp-account-production.json
+/sftp-account-staging.json
+/sftp-account-development.json
+/*/version.txt
